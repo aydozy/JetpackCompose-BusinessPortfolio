@@ -1,4 +1,4 @@
-# Kotlin Compose - Business Portfolio
+# Jetpack Compose - Business Portfolio
 <div align="left">
   
   In this application, when the user presses the button, a list where the projects will be displayed opens and if the user presses it again, this list closes.
